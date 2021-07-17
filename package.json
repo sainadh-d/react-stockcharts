@@ -51,8 +51,8 @@
     "save-svg-as-png": "^1.4.5"
   },
   "peerDependencies": {
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
@@ -131,10 +131,6 @@
     "d3-finance-chart",
     "d3-stockchart"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/rrag/react-stockcharts.git"
-  },
   "bugs": {
     "url": "https://github.com/rrag/react-stockcharts/issues"
   },
